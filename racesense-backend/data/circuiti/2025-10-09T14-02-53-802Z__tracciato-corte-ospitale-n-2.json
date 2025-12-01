@@ -7,7 +7,7 @@
     "sectors": 1885
   },
   "params": {
-    "widthMeters": 2,
+    "widthMeters": 10,
     "spacingMeters": 1,
     "minQual": 3
   },

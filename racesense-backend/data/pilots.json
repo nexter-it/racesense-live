@@ -1,5 +1,22 @@
 [
   {
+    "id": "mhw36xsqu3211q",
+    "name": "Leonardo",
+    "surname": "Spagni",
+    "team": "#poverimaveloci",
+    "championship": {
+      "id": "mhos4v2x5i7a",
+      "name": "Extrema Sprint Series"
+    },
+    "formula": {
+      "id": "mhos5mi5lk98",
+      "label": "WOMEN"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null,
+    "createdAt": "2025-11-12T14:19:50.042Z"
+  },
+  {
     "id": "mhrj3toucowyjp",
     "name": "Marco",
     "surname": "Gerinni",
@@ -861,6 +878,486 @@
     "formula": {
       "id": "mhos5mi5lk98",
       "label": "WOMEN"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_eroi_andrea_rossi",
+    "name": "Andrea",
+    "surname": "Rossi",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0bia0ld19",
+      "label": "EROI"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_eroi_luca_bianchi",
+    "name": "Luca",
+    "surname": "Bianchi",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0bia0ld19",
+      "label": "EROI"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_eroi_marco_verdi",
+    "name": "Marco",
+    "surname": "Verdi",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0bia0ld19",
+      "label": "EROI"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_eroi_francesco_neri",
+    "name": "Francesco",
+    "surname": "Neri",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0bia0ld19",
+      "label": "EROI"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_eroi_matteo_rinaldi",
+    "name": "Matteo",
+    "surname": "Rinaldi",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0bia0ld19",
+      "label": "EROI"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_eroi_davide_monti",
+    "name": "Davide",
+    "surname": "Monti",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0bia0ld19",
+      "label": "EROI"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_eroi_stefano_ferrari",
+    "name": "Stefano",
+    "surname": "Ferrari",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0bia0ld19",
+      "label": "EROI"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_eroi_giovanni_russo",
+    "name": "Giovanni",
+    "surname": "Russo",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0bia0ld19",
+      "label": "EROI"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_eroi_simone_galli",
+    "name": "Simone",
+    "surname": "Galli",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0bia0ld19",
+      "label": "EROI"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_eroi_federico_fabbri",
+    "name": "Federico",
+    "surname": "Fabbri",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0bia0ld19",
+      "label": "EROI"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_eroi_michele_conti",
+    "name": "Michele",
+    "surname": "Conti",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0bia0ld19",
+      "label": "EROI"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_eroi_riccardo_greco",
+    "name": "Riccardo",
+    "surname": "Greco",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0bia0ld19",
+      "label": "EROI"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_eroi_alessandro_vitali",
+    "name": "Alessandro",
+    "surname": "Vitali",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0bia0ld19",
+      "label": "EROI"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_audaci_daniele_martini",
+    "name": "Daniele",
+    "surname": "Martini",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0blhl1jeu",
+      "label": "AUDACI"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_audaci_paolo_garofalo",
+    "name": "Paolo",
+    "surname": "Garofalo",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0blhl1jeu",
+      "label": "AUDACI"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_audaci_lorenzo_costa",
+    "name": "Lorenzo",
+    "surname": "Costa",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0blhl1jeu",
+      "label": "AUDACI"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_audaci_mattia_longhi",
+    "name": "Mattia",
+    "surname": "Longhi",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0blhl1jeu",
+      "label": "AUDACI"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_audaci_nicola_mancini",
+    "name": "Nicola",
+    "surname": "Mancini",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0blhl1jeu",
+      "label": "AUDACI"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_audaci_salvatore_ricci",
+    "name": "Salvatore",
+    "surname": "Ricci",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0blhl1jeu",
+      "label": "AUDACI"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_audaci_mauro_villa",
+    "name": "Mauro",
+    "surname": "Villa",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0blhl1jeu",
+      "label": "AUDACI"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_audaci_gabriele_leoni",
+    "name": "Gabriele",
+    "surname": "Leoni",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0blhl1jeu",
+      "label": "AUDACI"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_audaci_diego_moretti",
+    "name": "Diego",
+    "surname": "Moretti",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0blhl1jeu",
+      "label": "AUDACI"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_audaci_roberto_puglisi",
+    "name": "Roberto",
+    "surname": "Puglisi",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0blhl1jeu",
+      "label": "AUDACI"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_audaci_chiara_romani",
+    "name": "Chiara",
+    "surname": "Romani",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0blhl1jeu",
+      "label": "AUDACI"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_audaci_elisa_gatti",
+    "name": "Elisa",
+    "surname": "Gatti",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0blhl1jeu",
+      "label": "AUDACI"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_audaci_marta_morandi",
+    "name": "Marta",
+    "surname": "Morandi",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0blhl1jeu",
+      "label": "AUDACI"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_audaci_alessio_poletti",
+    "name": "Alessio",
+    "surname": "Poletti",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0blhl1jeu",
+      "label": "AUDACI"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_audaci_giulia_pellegrini",
+    "name": "Giulia",
+    "surname": "Pellegrini",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0blhl1jeu",
+      "label": "AUDACI"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_audaci_enrico_lombardi",
+    "name": "Enrico",
+    "surname": "Lombardi",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0blhl1jeu",
+      "label": "AUDACI"
+    },
+    "photoDriverUrl": null,
+    "photoTeamUrl": null
+  },
+  {
+    "id": "pl_audaci_fabio_marinelli",
+    "name": "Fabio",
+    "surname": "Marinelli",
+    "team": "No Team",
+    "championship": {
+      "id": "mim0bf9gqnlj",
+      "name": "Rally degli eroi"
+    },
+    "formula": {
+      "id": "mim0blhl1jeu",
+      "label": "AUDACI"
     },
     "photoDriverUrl": null,
     "photoTeamUrl": null

@@ -1,5 +1,23 @@
 [
   {
+    "id": "mim0bf9gqnlj",
+    "name": "Rally degli eroi",
+    "photo": "/uploads/1764524480588_lig679_Screenshot_2025-11-30_alle_18.41.08.png",
+    "createdAt": "2025-11-30T17:41:21.028Z",
+    "formulas": [
+      {
+        "id": "mim0bia0ld19",
+        "label": "EROI",
+        "createdAt": "2025-11-30T17:41:24.936Z"
+      },
+      {
+        "id": "mim0blhl1jeu",
+        "label": "AUDACI",
+        "createdAt": "2025-11-30T17:41:29.097Z"
+      }
+    ]
+  },
+  {
     "id": "mhos4v2x5i7a",
     "name": "Extrema Sprint Series",
     "photo": "/uploads/1762515353669_rbs4l1_Screenshot_2025-11-07_alle_12.35.21.png",

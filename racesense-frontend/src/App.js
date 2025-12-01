@@ -10,6 +10,7 @@ import PilotLive from './pages/PilotLive'; // ⬅⬅ NUOVO
 import Championships from './pages/Championships';
 import PulsePage from './pages/Pulse';
 import AuthGate from './components/AuthGate';
+import PricingPage from './pages/Pricing';
 
 const API_BASE = process.env.REACT_APP_API_BASE || `http://${window.location.hostname}:5000`;
 function BackendStatusBox() {
@@ -168,6 +169,7 @@ export default function App() {
 
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/pricing" element={<PricingPage />} />
         <Route path="/circuiti" element={<CircuitsPage apiBase={API_BASE} />} />
         <Route path="/piloti" element={<PilotsPage apiBase={API_BASE} />} />
         <Route path="/campionati" element={<Championships />} />
